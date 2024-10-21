@@ -1,4 +1,4 @@
-local owner_name = "gollark" -- Default username, can be reset by owner
+local owner_name = "endermega9000" -- Default username, can be reset by owner
 local drone_name = "QT-8"
 local status = drone.setStatusText
 
